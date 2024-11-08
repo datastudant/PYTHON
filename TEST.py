@@ -18,6 +18,7 @@ if status == True:
 elif status == False :
   print("your name has ben uploaded sucsefl")
   """
+"""
 name = input("Enter your name: ")
 attempts = 0
 max_attempts = 3
@@ -32,4 +33,10 @@ while name == "" and attempts < max_attempts:
         attempts += 1
 
 if name != "":
-    print("Your name has been uploaded successfully!")
+    print("Your name has been uploaded successfully!")"""
+"""
+def my_function(child3, child2, child1):
+  print("The youngest child is " + child2)
+
+my_function(child2 = "Emil", child1 = "Tobias", child3 = "Linus")
+"""
