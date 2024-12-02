@@ -40,3 +40,39 @@ def my_function(child3, child2, child1):
 
 my_function(child2 = "Emil", child1 = "Tobias", child3 = "Linus")
 """
+"""class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+p1 = Person("John", 36)
+
+print(p1.name)
+print(p1.age)"""
+"""class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+  def myfunc(self):
+    print("Hello my name is " + self.name)
+
+p1 = Person("John", 36)
+p1.myfunc()
+print(p1)"""
+"""class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    def say_hello(self):
+        return f"السلام، سميتي {self.name} وعندي {self.age} عام."
+person1 = Person("أحمد", 25)
+print(person1.name)  # يطبع "أحمد"
+print(person1.age)   # يطبع 25"""
+print("hello world")
+
+
+
+
+
