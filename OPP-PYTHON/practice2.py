@@ -1,6 +1,6 @@
 #@staticmethod
 #@classmethod
-#polymorphism in object-oriented programming
+# polymorphism in object-oriented programming
 from datetime import date
 class Person:
     def __init__(self, name, age):
